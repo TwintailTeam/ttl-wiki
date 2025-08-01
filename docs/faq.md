@@ -20,7 +20,7 @@ Yes, Twintail Launcher is completely free and open source under the GPL-3.0 lice
 
 TTL is available for:
 - **Windows** (x64) - via Winget
-- **Linux** - via Flatpak (recommended), AUR, or DEB packages
+- **Linux** - via Flatpak (recommended) or AUR packages
 
 ## Safety & Security
 
@@ -32,7 +32,7 @@ We do our best to ensure the launcher avoids detection and doesn't interfere wit
 
 ### Does TTL modify game files?
 
-TTL primarily works as a launcher and mod manager. It may interact with game files for mod installation but is designed to avoid interfering with sensitive anti-cheat systems.
+TTL primarily works as a launcher. It never touches game files.
 
 ## Technical Questions
 
@@ -52,7 +52,7 @@ TTL is designed to replace the official game launchers. Using multiple launchers
 
 ### How do I report bugs or request features?
 
-You can [open an issue](https://github.com/TwintailTeam/TwintailLauncher/issues) on our GitHub repository. Please search existing issues first to avoid duplicates.
+You can [open an issue](https://github.com/TwintailTeam/TwintailLauncher/issues) on our GitHub repository or on our [Discord](https://discord.gg/nDMJDwuj7s) in support channel. Please search existing issues first to avoid duplicates.
 
 ## Installation Questions
 
@@ -70,6 +70,7 @@ We recommend using **Flatpak** as it works across all distributions and provides
 
 - Check our [Troubleshooting](./troubleshooting/common-issues) guide
 - Browse the documentation sections
+- In our [Discord](https://discord.gg/nDMJDwuj7s)
 - [Open an issue](https://github.com/TwintailTeam/TwintailLauncher/issues) on GitHub
 
 ### How can I support the project?

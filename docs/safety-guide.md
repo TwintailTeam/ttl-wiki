@@ -14,10 +14,10 @@ Important information about using Twintail Launcher safely and securely.
 
 ### What We Do to Stay Safe
 
-The Twintail Launcher team takes several measures to minimize risks:
+The TTL team takes several measures to minimize risks:
 
 - **Avoid Anti-Cheat Interference** - TTL is designed to work around, not interfere with, game anti-cheat systems
-- **No Sensitive File Modification** - We avoid modifying critical game files that could trigger security alerts
+- **No Sensitive File Modification** - We avoid modifying game files of installed games
 - **Regular Updates** - We continuously update TTL to maintain compatibility and safety
 - **Community Testing** - Our community helps test and report any issues
 
@@ -40,9 +40,7 @@ The Twintail Launcher team takes several measures to minimize risks:
 ### Before Using TTL
 
 1. **Backup Your Game Data** - Always backup your game saves and settings
-2. **Read Game ToS** - Understand each game's Terms of Service regarding third-party software  
-3. **Start with Offline Games** - If available, test TTL with offline or single-player content first
-4. **Use Separate Accounts** - Consider using non-primary accounts for initial testing
+2. **Use Separate Accounts** - Consider using non-primary accounts for initial testing
 
 ### While Using TTL
 
@@ -54,7 +52,7 @@ The Twintail Launcher team takes several measures to minimize risks:
 ### If You Encounter Issues
 
 1. **Stop Using TTL** - If you suspect detection or issues, stop using the launcher immediately
-2. **Check Official Channels** - Look for announcements on GitHub or community discussions
+2. **Check Official Channels** - Look for announcements on TTL Discord server
 3. **Revert to Official Launchers** - Switch back to official game launchers if needed
 4. **Document and Report** - Help others by documenting your experience
 
@@ -74,30 +72,14 @@ The Twintail Launcher team takes several measures to minimize risks:
 3. **Review Account Activity** - Check for unauthorized purchases or changes
 4. **Enable Additional Security** - Add extra security measures if available
 
-## Legal Considerations
-
-### Terms of Service
-
-- Each game has its own Terms of Service regarding third-party software
-- TTL usage may violate some ToS agreements
-- Users are responsible for understanding and accepting these risks
-- We recommend reading and understanding each game's ToS before using TTL
-
-### Intellectual Property
-
-- TTL respects game developers' intellectual property
-- We don't distribute game files or copyrighted content
-- Mods and modifications should comply with applicable laws and ToS
-
 ## Getting Help
 
 If you have security concerns or questions:
 
-- 📖 Check our [FAQ](./faq) for common questions
-- 🔧 Visit [Troubleshooting](./troubleshooting/common-issues) for technical issues
-- 💬 Join discussions on [GitHub](https://github.com/TwintailTeam/TwintailLauncher/issues)
-- 🛡️ Report security issues responsibly through appropriate channels
+- Check our [FAQ](./faq) for common questions
+- Visit [Troubleshooting](./troubleshooting/common-issues) for technical issues
+- Join discussions on [Discord](https://discord.gg/nDMJDwuj7s)
 
 ## Disclaimer
 
-This guide is provided for informational purposes. The Twintail Launcher team cannot guarantee complete safety or prevent all potential issues. Users must make informed decisions about the risks they're willing to accept.
+This guide is provided for informational purposes. The TTL team cannot guarantee complete safety or prevent all potential issues. Users must make informed decisions about the risks they're willing to accept.

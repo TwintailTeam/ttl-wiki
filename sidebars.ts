@@ -31,8 +31,8 @@ const sidebars: SidebarsConfig = {
       collapsed: false,
       items: [
         'installation/overview',
-        'installation/windows',
         'installation/linux',
+        'installation/windows',
         'installation/first-time-setup',
       ],
     },
@@ -56,8 +56,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'games/genshin-impact',
         'games/honkai-star-rail',
-        'games/honkai-impact-3rd',
         'games/zenless-zone-zero',
+        'games/honkai-impact-3rd',
         'games/wuthering-waves',
         'games/punishing-gray-raven',
         'games/other-games',

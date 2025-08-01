@@ -24,7 +24,7 @@ Complete guide to installing Twintail Launcher on Windows.
 
 2. **Install Twintail Launcher**
    ```powershell
-   winget install TwintailLauncher
+   winget install TwintailTeam.TTL
    ```
 
 3. **Wait for Installation**
@@ -33,39 +33,6 @@ Complete guide to installing Twintail Launcher on Windows.
 
 4. **Launch TTL**
    - Find "Twintail Launcher" in your Start Menu
-
-## Alternative Installation Methods
-
-:::warning Not Recommended
-The following methods are provided for completeness but are **not recommended** for most users.
-:::
-
-### Manual Installation (Advanced Users Only)
-
-1. **Download Latest Release**
-   - Visit [GitHub Releases](https://github.com/TwintailTeam/TwintailLauncher/releases)
-   - Download the Windows x64 installer
-
-2. **Run Installer**
-   - Right-click the installer and select "Run as administrator"
-   - Follow the installation wizard
-
-3. **Configure Windows Defender**
-   - Add TTL to Windows Defender exclusions if needed
-
-## System Requirements
-
-### Minimum Requirements
-- **OS:** Windows 10 x64 (version 1809 or later)
-- **RAM:** 4GB
-- **Storage:** 1GB free space
-- **Architecture:** x64 (64-bit) only
-
-### Recommended Specifications
-- **OS:** Windows 11 x64
-- **RAM:** 8GB or more
-- **Storage:** 2GB free space on SSD
-- **GPU:** Dedicated graphics card for optimal gaming
 
 ## Troubleshooting Installation Issues
 
@@ -84,17 +51,7 @@ The following methods are provided for completeness but are **not recommended** 
 
 **Solutions:**
 1. **Update Windows** - Ensure you have the latest Windows updates
-2. **Install App Installer** - Download from Microsoft Store
-3. **Use PowerShell 7** - Install the latest PowerShell version
-
-### Permission Errors
-
-**Issue:** Installation fails due to insufficient permissions.
-
-**Solution:**
-1. Run Command Prompt or PowerShell as Administrator
-2. Right-click and select "Run as administrator"
-3. Try the installation command again
+2. **Install winget** - Download from Microsoft
 
 ### Installation Hangs or Fails
 
@@ -102,7 +59,6 @@ The following methods are provided for completeness but are **not recommended** 
 1. **Check Internet Connection** - Ensure stable internet
 2. **Restart Windows** - Reboot and try again
 3. **Clear Winget Cache** - Run `winget source reset`
-4. **Manual Installation** - Use the GitHub release installer
 
 ## Updating Twintail Launcher
 
@@ -110,7 +66,7 @@ The following methods are provided for completeness but are **not recommended** 
 Winget installations receive automatic updates:
 
 ```powershell
-winget upgrade TwintailLauncher
+winget upgrade TwintailTeam.TTL
 ```
 
 ### Check for Updates
@@ -122,7 +78,7 @@ winget list --upgrade-available
 
 ### Using Winget
 ```powershell
-winget uninstall TwintailLauncher
+winget uninstall TwintailTeam.TTL
 ```
 
 ### Using Windows Settings
@@ -138,9 +94,3 @@ After successful installation:
 1. [**First-Time Setup**](./first-time-setup) - Configure TTL for your games
 2. [**Interface Overview**](../user-guide/interface-overview) - Learn the TTL interface
 3. [**Game Setup**](../games/genshin-impact) - Add your favorite games
-
-## Need Help?
-
-- 🔧 [Common Installation Issues](../troubleshooting/common-issues)
-- 💬 [GitHub Discussions](https://github.com/TwintailTeam/TwintailLauncher/discussions)
-- 📖 [FAQ](../faq) - Frequently asked questions

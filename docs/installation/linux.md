@@ -16,12 +16,6 @@ After successful installation:
 
 ## Linux Gaming Resources
 
-- 🐧 [ProtonDB](https://www.protondb.com/) - Game compatibility database
-- 🎮 [Lutris](https://lutris.net/) - Game management for Linux
-- 📖 [ArchWiki Gaming](https://wiki.archlinux.org/title/Gaming) - Comprehensive gaming guide
-
-## Need Help?
-
-- 🔧 [Common Installation Issues](../troubleshooting/common-issues)
-- 💬 [GitHub Discussions](https://github.com/TwintailTeam/TwintailLauncher/discussions)
-- 📖 [FAQ](../faq) - Frequently asked questions
+- [ProtonDB](https://www.protondb.com/) - Game compatibility database (Steam only)
+- [Are we anticheat yet?](https://areweanticheatyet.com) - Anticheat compatibility
+- [ArchWiki Gaming](https://wiki.archlinux.org/title/Gaming) - Comprehensive gaming guide

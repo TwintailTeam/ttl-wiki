@@ -28,55 +28,32 @@ TTL needs to know where your games are installed:
 - `C:\Program Files (x86)\HoYoPlay\....`
 
 **Linux:**
-- To be added
+- Can be anywhere you desired, maybe it's in your wine prefix from HoYoPlay or somewhere else It's hard to write comprehensive list for linux.
 
-## Performance Optimization
-
-### Game-Specific Settings
+## Game-Specific Settings
 
 Each game can have individual performance profiles:
 
 > Note game has to be downloaded/added first before configuring settings.
 
 1. **Select Game** in TTL interface
-2. **Open Game Settings**
+2. **Open Install Settings**
 
-# WIP
+Each game has different toggles for you to experiment and play with, keep in mind all of them are **OPTIONAL** and do not exist on your system until you enable them.
 
 ### Recommended First Actions
 
-1. **📖 Read Game-Specific Guides**
+1. **Read Game-Specific Guides**
    - [Genshin Impact Setup](../games/genshin-impact)
    - [Honkai: Star Rail Setup](../games/honkai-star-rail)
    - [Other Supported Games](../games/other-games)
 
-2. **🎨 Explore Mod Options**
-   - Start with visual enhancements
-   - Avoid gameplay-altering mods initially
-   - Use trusted mod sources only
-
-3. **🔧 Learn the Interface**
+2. **Learn the Interface**
    - [Interface Overview](../user-guide/interface-overview)
    - [Mod Management](../user-guide/mod-management)
 
-### Stay Safe & Informed
-
-- **📚 Read Our [Safety Guide](../safety-guide)**
-- **🔄 Check for Updates Regularly**
-- **💬 Join Community Discussions**
-- **📋 Backup Your Configuration**
-
-## Getting Help
-
-If you encounter issues during setup:
-
-- 🔧 [Troubleshooting Guide](../troubleshooting/common-issues)
-- 📖 [FAQ](../faq) - Common questions and answers
-- 💬 [GitHub Discussions](https://github.com/TwintailTeam/TwintailLauncher/discussions)
-- 🛡️ [Safety Guide](../safety-guide) - Important safety information
-
 ---
 
-**🎮 You're Ready to Game!** 
+**You're Ready to Game!** 
 
 Your Twintail Launcher is now configured and ready to enhance your gaming experience. Remember to use TTL responsibly and always prioritize account safety.

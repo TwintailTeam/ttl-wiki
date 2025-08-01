@@ -17,11 +17,11 @@ We do our best to ensure the launcher avoids detection and doesn't interfere wit
 Twintail Launcher currently supports the following games:
 
 - **[Genshin Impact](./games/genshin-impact)** - Full mod support and enhancements
-- **[Honkai: Star Rail](./games/honkai-star-rail)** - Quality-of-life improvements  
-- **[Honkai Impact 3rd](./games/honkai-impact-3rd)** - Enhanced graphics and mods
-- **[Zenless Zone Zero](./games/zenless-zone-zero)** - Custom configurations
-- **[Wuthering Waves](./games/wuthering-waves)** - Mod management
-- **[Punishing: Gray Raven](./games/punishing-gray-raven)** - Enhanced features
+- **[Honkai: Star Rail](./games/honkai-star-rail)** - Full mod support and enhancements 
+- **[Zenless Zone Zero](./games/zenless-zone-zero)** - Full mod support and enhancements
+- **[Honkai Impact 3rd](./games/honkai-impact-3rd)** - Full mod support
+- **[Wuthering Waves](./games/wuthering-waves)** - Full mod support
+- **[Punishing: Gray Raven](./games/punishing-gray-raven)** - Game only
 
 ## Key Features
 
@@ -36,10 +36,10 @@ Ready to get started? Check out our [Installation Guide](./installation/overview
 
 ## Need Help?
 
-- 📖 Browse our [User Guide](./user-guide/interface-overview) for detailed instructions
-- 🔧 Check [Troubleshooting](./troubleshooting/common-issues) for common issues
-- 🐛 [Report issues](https://github.com/TwintailTeam/TwintailLauncher/issues) on GitHub
-- 💬 Join our community discussions
+- Browse our [User Guide](./user-guide/interface-overview) for detailed instructions
+- Check [Troubleshooting](./troubleshooting/common-issues) for common issues
+- [Report issues](https://github.com/TwintailTeam/TwintailLauncher/issues) on GitHub
+- Join our [community](https://discord.gg/nDMJDwuj7s) discussions
 
 ## Contributing
 
